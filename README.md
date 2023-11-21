@@ -65,4 +65,3 @@
 ## 프로젝트 실행결과
 
 ![image](https://github.com/P1nos/Sigma-FallDetection/assets/90705236/a9e7d1b3-c95d-4c5c-95fb-3663de121f44)
-
