@@ -65,3 +65,7 @@
 ## 프로젝트 실행결과
 
 ![image](https://github.com/P1nos/Sigma-FallDetection/assets/90705236/a9e7d1b3-c95d-4c5c-95fb-3663de121f44)
+
+------------
+
+# 궁금하신점 있으시면 ydh547@gmail.com 으로 메일 주시면 답변 드리겠습니다.
