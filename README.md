@@ -41,6 +41,7 @@
 
 ## 프로젝트 세부 시스템 구조 (AI)
 + 낙상 판단 AI 모델 ( openpifpaf 사용)
+
 ![image](https://github.com/P1nos/Sigma-FallDetection/assets/90705236/970b8c59-b1b9-40d6-8176-13df992b053f)
 
 1. 전경을 추출
